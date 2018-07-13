@@ -1,0 +1,13 @@
+{
+    "name": "sphinx/sphinx",
+    "description": "sphinxapi or sphinxclient",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nil",
+            "email": "nil@zc.cc"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
