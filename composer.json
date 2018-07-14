@@ -9,7 +9,7 @@
       "email": "554157247@qq.com"
     }
   ],
-  "minimum-stability": "dev-master",
+  "minimum-stability": "dev",
   "require": {
     "php": ">=5.0"
   },
