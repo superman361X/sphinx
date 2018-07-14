@@ -1,6 +1,6 @@
 {
   "name": "nil/sphinxclient",
-  "description": "try make a package",
+  "description": "sphinx客户端",
   "type": "library",
   "license": "MIT",
   "authors": [
