@@ -1,6 +1,6 @@
 {
   "name": "nil/sphinxclient",
-  "description": "sphinx客户端",
+  "description": "sphinxclient || sphinxapi",
   "version": "0.0.1",
   "type": "library",
   "license": "MIT",
@@ -12,6 +12,9 @@
   ],
   "minimum-stability": "dev",
   "autoload": {
-    "files": ["src/util.php"]
+    "files": [
+      "src/Util.php",
+      "src/Config.php"
+    ]
   }
 }
