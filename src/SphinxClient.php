@@ -1,5 +1,5 @@
 <?php
-
+namespace Nil\SphinxClient;
 
 /// sphinx searchd client class
 class SphinxClient
