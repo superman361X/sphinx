@@ -1,5 +1,5 @@
 <?php
-namespace Nil\SphinxClient;
+namespace Nil;
 
 // important properties of PHP's integers:
 //  - always signed (one bit short of PHP_INT_SIZE)
